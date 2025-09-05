@@ -1,4 +1,4 @@
-
+https://6ea069c4-d4c5-4f75-921a-9628486d0698-00-25zip7sja3v1j.kirk.replit.dev
 import React, { useState, useEffect } from 'react';
 import {
   Calculator, Home, Wrench, FileText, DollarSign, Lightbulb,
